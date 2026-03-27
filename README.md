@@ -1,16 +1,12 @@
-## Hi there 👋
+「かいら のんこ」と申します、ここではそうお呼びください。  
+（別名義活動の場の知人さんへ、下記★の活動がメインのためペンネーム名義です  
+　Nameにだけ他場所の名義(ゲームプレイネーム)入れてます）  
+bioにSNSのことは書きましたが、日本語ネイティブの素人です。
 
-<!--
-**kairanonko/kairanonko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+■プログラミング・サーバ運営などは全くできません  
+　スケジュール等つぶやくbotの予定入力とかのお手伝いはしています  
+　関連でややこしい案件のIssue起票などはできると便利かなと思っていますが、するかはわかりません
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+■Pagesでの創作物紹介サイト作成 ★  
+■プライベートリポジトリでのToDoツールとしての利用  
+などがここにいる主な目的です。
